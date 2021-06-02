@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://com.tvarit.data.landing-zone.eu-central-1/data/DVC-ROOT/
